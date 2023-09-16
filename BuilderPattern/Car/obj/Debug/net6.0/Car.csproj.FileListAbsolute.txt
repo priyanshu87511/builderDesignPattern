@@ -1,0 +1,11 @@
+D:\Myfiles\7\Software Engineering\Individual\priy\BuilderPattern\Car\bin\Debug\net6.0\Car.deps.json
+D:\Myfiles\7\Software Engineering\Individual\priy\BuilderPattern\Car\bin\Debug\net6.0\Car.dll
+D:\Myfiles\7\Software Engineering\Individual\priy\BuilderPattern\Car\bin\Debug\net6.0\Car.pdb
+D:\Myfiles\7\Software Engineering\Individual\priy\BuilderPattern\Car\obj\Debug\net6.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+D:\Myfiles\7\Software Engineering\Individual\priy\BuilderPattern\Car\obj\Debug\net6.0\Car.AssemblyInfoInputs.cache
+D:\Myfiles\7\Software Engineering\Individual\priy\BuilderPattern\Car\obj\Debug\net6.0\Car.AssemblyInfo.cs
+D:\Myfiles\7\Software Engineering\Individual\priy\BuilderPattern\Car\obj\Debug\net6.0\Car.csproj.CoreCompileInputs.cache
+D:\Myfiles\7\Software Engineering\Individual\priy\BuilderPattern\Car\obj\Debug\net6.0\Car.dll
+D:\Myfiles\7\Software Engineering\Individual\priy\BuilderPattern\Car\obj\Debug\net6.0\refint\Car.dll
+D:\Myfiles\7\Software Engineering\Individual\priy\BuilderPattern\Car\obj\Debug\net6.0\Car.pdb
+D:\Myfiles\7\Software Engineering\Individual\priy\BuilderPattern\Car\obj\Debug\net6.0\ref\Car.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarApplication", "Car\CarApplication.csproj", "{7B2ED702-B3C7-4EA1-9561-33E7E30B1C4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{618669EE-ECB7-4799-BE8E-F09E11FEB1CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B2ED702-B3C7-4EA1-9561-33E7E30B1C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2ED702-B3C7-4EA1-9561-33E7E30B1C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B2ED702-B3C7-4EA1-9561-33E7E30B1C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B2ED702-B3C7-4EA1-9561-33E7E30B1C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{618669EE-ECB7-4799-BE8E-F09E11FEB1CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{618669EE-ECB7-4799-BE8E-F09E11FEB1CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{618669EE-ECB7-4799-BE8E-F09E11FEB1CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{618669EE-ECB7-4799-BE8E-F09E11FEB1CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {926F17CC-2351-48A7-A35D-973C0B8380B0}
+	EndGlobalSection
+EndGlobal
